@@ -2,7 +2,7 @@ package RemoteRepoNexux.AdvanceJava;
 
 public interface PaymentGateway {
 
-    //method for payment platform..
+    //method for payment platform
     public void chooseGateway (double amount);
 }
 

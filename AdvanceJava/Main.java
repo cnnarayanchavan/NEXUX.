@@ -19,7 +19,8 @@ public class Main {
 
         PaymentGateway moon = new PayWithMoonPay();
         select = new SelectMethod(moon);
-        select.makePayment(898989.88);
+        select.makePayment(67364.99);
+
 
     }
 }
