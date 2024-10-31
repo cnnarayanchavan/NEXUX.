@@ -7,5 +7,5 @@ Central connection and hub for system and data integration.
 3. Utility Classes.
 
 # DBMS Core. ✅
-# Get Started with procedural programming ✅
+
 
