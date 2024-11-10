@@ -1,4 +1,4 @@
-package RemoteRepoNexux.Constructors;
+package Constructors;
 
 public class GetterSetterExample {
     final private int id = 1209;

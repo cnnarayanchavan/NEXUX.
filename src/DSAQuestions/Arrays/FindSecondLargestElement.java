@@ -1,4 +1,4 @@
-package RemoteRepoNexux.DSAQuestions.Arrays;
+package DSAQuestions.Arrays;
 
 public class FindSecondLargestElement {
     public static void main(String[] args) {

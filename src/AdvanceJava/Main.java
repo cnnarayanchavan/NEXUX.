@@ -1,4 +1,4 @@
-package RemoteRepoNexux.AdvanceJava;
+package AdvanceJava;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package RemoteRepoNexux.GenericsJava;
+package GenericsJava;
 
 public class Main {
     public static void main(String[] args) {

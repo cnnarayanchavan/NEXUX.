@@ -1,4 +1,4 @@
-package RemoteRepoNexux.GenericsJava;
+package GenericsJava;
 
 public class GenericExample <T>{
     //here I'll specify type parameter which help me define the type of object of this class

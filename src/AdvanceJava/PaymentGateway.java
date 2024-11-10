@@ -1,4 +1,4 @@
-package RemoteRepoNexux.AdvanceJava;
+package AdvanceJava;
 
 public interface PaymentGateway {
 

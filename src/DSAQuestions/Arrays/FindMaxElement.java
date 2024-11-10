@@ -1,4 +1,4 @@
-package RemoteRepoNexux.DSAQuestions.Arrays;
+package DSAQuestions.Arrays;
 
 
 public class FindMaxElement {
