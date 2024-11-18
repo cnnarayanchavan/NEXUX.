@@ -1,0 +1,8 @@
+Classes & Objects 
+
+CLASS : Named group of properties and functions, Or we can say the class is like a logical constructor, A concept, A Template for an object.
+Real Life Example : Human (when babies are born they are the instance of this Human class).
+Default Values of nonPrimitive (Object Type is 'null').
+[Let's do it practically].
+
+
